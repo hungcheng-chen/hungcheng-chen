@@ -8,6 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,linux,docker,mysql,mongodb,pytorch,tensorflow,sklearn,opencv,git,arduino,raspberrypi)](https://skillicons.dev)
 
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+- Building server-side applications with Django, a powerful Python web framework.
+
 ## 📬 Get in Touch
 
 [![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:hcchen.nick@gmail.com)
