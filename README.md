@@ -1,4 +1,6 @@
-### Hi, I'm Hung-Cheng Chen 👋
+<!--### Hi, I'm Hung-Cheng Chen 👋-->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20Hung-Cheng%20Chen&animation=scaleIn&fontColor=FFFFFF&fontSize=30&height=30)
 
 ## 😊 About Me
 
